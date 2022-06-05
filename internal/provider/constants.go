@@ -12,6 +12,5 @@ const (
 	aarch64 = "aarch64"
 	x86_64  = "x86_64"
 	darwin  = "darwin"
-
-	linux = "linux"
+	linux   = "linux"
 )
